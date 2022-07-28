@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on 아무것도 모르는 새내기의 공부노트</title>
-    <link>https://joe9210.github.io/series/</link>
+    <link>https://joe9210.github.io/ko/series/</link>
     <description>Recent content in Series on 아무것도 모르는 새내기의 공부노트</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright><atom:link href="https://joe9210.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright><atom:link href="https://joe9210.github.io/ko/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

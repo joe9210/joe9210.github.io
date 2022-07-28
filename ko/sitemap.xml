@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://joe9210.github.io/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://joe9210.github.io/ko/categories/"
-                />
+    <loc>https://joe9210.github.io/ko/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="https://joe9210.github.io/categories/"
                 />
-  </url><url>
-    <loc>https://joe9210.github.io/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://joe9210.github.io/ko/series/"
+                href="https://joe9210.github.io/ko/categories/"
                 />
+  </url><url>
+    <loc>https://joe9210.github.io/ko/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="https://joe9210.github.io/series/"
                 />
-  </url><url>
-    <loc>https://joe9210.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://joe9210.github.io/ko/tags/"
+                href="https://joe9210.github.io/ko/series/"
                 />
+  </url><url>
+    <loc>https://joe9210.github.io/ko/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="https://joe9210.github.io/tags/"
                 />
-  </url><url>
-    <loc>https://joe9210.github.io/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://joe9210.github.io/ko/"
+                href="https://joe9210.github.io/ko/tags/"
                 />
+  </url><url>
+    <loc>https://joe9210.github.io/ko/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="https://joe9210.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://joe9210.github.io/ko/"
                 />
   </url>
 </urlset>
